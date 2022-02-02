@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1641522718 source:c:\users\crizma123\desktop\c_project\admin.c
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+	"LinkedList.h"
+	"Admin.h"
+	"Admin_config.h"
+	"main.h"
+
+1641297642 c:\users\crizma123\desktop\c_project\std_types.h
+
+1643712777 c:\users\crizma123\desktop\c_project\admin.h
+	"std_types.h"
+
+1643712753 source:c:\users\crizma123\desktop\c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Admin.h"
+	"User.h"
+	"main.h"
+
+1641522810 c:\users\crizma123\desktop\c_project\admin_config.h
+
+1641670057 c:\users\crizma123\desktop\c_project\linkedlist.h
+	"main.h"
+	"std_types.h"
+
+1642290489 source:c:\users\crizma123\desktop\c_project\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+	"LinkedList.h"
+	"main.h"
+
+1643712704 source:c:\users\crizma123\desktop\c_project\user.c
+	<stdio.h>
+	<stdlib.h>
+	"std_types.h"
+	"LinkedList.h"
+	"User.h"
+	"Admin.h"
+
+1641487390 c:\users\crizma123\desktop\c_project\user.h
+
+1641522831 c:\users\crizma123\desktop\c_project\main.h
+
